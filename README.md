@@ -16,3 +16,6 @@
 
 ##### Disclaimer :
 ###### PhantomXYZ is provided for educational and informational purposes only. The author does not endorse or promote cheating in any form. PhantomXYZ should not be used to gain an unfair advantage. The usage of PhantomXYZ may violate the TOS of Counter-Strike 2, leading to penalties or a ban. Use it responsibly and at your own risk!
+
+##### Video Preview :
+https://github.com/user-attachments/assets/47df4c29-db92-4a26-94ea-d35456b2e28d
