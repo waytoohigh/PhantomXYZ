@@ -1,5 +1,5 @@
 # *PhantomXYZ ✩₊˚.⋆*
-##### *[root@waytoohigh] - PhantomXYZ | Updated 12.3.24*
+##### *[root@waytoohigh] - PhantomXYZ*
 ###### A simplistic triggerbot made for Counter-Strike 2
 
 ![PhantomXYZ](https://i.imgur.com/kSjhMTy.png "PhantomXYZ")
