@@ -2,7 +2,7 @@
 ##### *[root@waytoohigh] - PhantomXYZ*
 ###### A simplistic triggerbot made for Counter-Strike 2
 
-![PhantomXYZ](https://i.imgur.com/kSjhMTy.png "PhantomXYZ")
+![PhantomXYZ](https://i.imgur.com/XSMQ6rB.png "PhantomXYZ")
 
 ##### About PhantomXYZ :
 ###### - Very lightweight triggerbot that works completely WITHOUT memory writing
